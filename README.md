@@ -6,7 +6,7 @@ This repository contains documentation and configurations for advanced system ad
 * **Virtualization:** Oracle VirtualBox (VM Installation, Cloning, Exporting OVF/OVA)
 * **Services:** DNS Configuration, Web Server (Apache/Nginx)
 * **File Sharing:** NFS, FTP, FTPS
-* **OS:** Linux (Ubuntu/CentOS), Windows Server
+* **OS:** Linux (Ubuntu/kali), rocky Server
 
 ## 📁 Lab Modules
 1. **Virtualization Basics:** Setting up the environment and appliance management.
